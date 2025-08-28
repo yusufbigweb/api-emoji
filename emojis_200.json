@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "emoji": "😀",
+    "name": "emoji-0x1f600",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 2,
+    "emoji": "😁",
+    "name": "emoji-0x1f601",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 3,
+    "emoji": "😂",
+    "name": "emoji-0x1f602",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 4,
+    "emoji": "😃",
+    "name": "emoji-0x1f603",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 5,
+    "emoji": "😄",
+    "name": "emoji-0x1f604",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 6,
+    "emoji": "😅",
+    "name": "emoji-0x1f605",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 7,
+    "emoji": "😆",
+    "name": "emoji-0x1f606",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 8,
+    "emoji": "😇",
+    "name": "emoji-0x1f607",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 9,
+    "emoji": "😈",
+    "name": "emoji-0x1f608",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 10,
+    "emoji": "😉",
+    "name": "emoji-0x1f609",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 11,
+    "emoji": "😊",
+    "name": "emoji-0x1f60a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 12,
+    "emoji": "😋",
+    "name": "emoji-0x1f60b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 13,
+    "emoji": "😌",
+    "name": "emoji-0x1f60c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 14,
+    "emoji": "😍",
+    "name": "emoji-0x1f60d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 15,
+    "emoji": "😎",
+    "name": "emoji-0x1f60e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 16,
+    "emoji": "😏",
+    "name": "emoji-0x1f60f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 17,
+    "emoji": "😐",
+    "name": "emoji-0x1f610",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 18,
+    "emoji": "😑",
+    "name": "emoji-0x1f611",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 19,
+    "emoji": "😒",
+    "name": "emoji-0x1f612",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 20,
+    "emoji": "😓",
+    "name": "emoji-0x1f613",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 21,
+    "emoji": "😔",
+    "name": "emoji-0x1f614",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 22,
+    "emoji": "😕",
+    "name": "emoji-0x1f615",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 23,
+    "emoji": "😖",
+    "name": "emoji-0x1f616",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 24,
+    "emoji": "😗",
+    "name": "emoji-0x1f617",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 25,
+    "emoji": "😘",
+    "name": "emoji-0x1f618",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 26,
+    "emoji": "😙",
+    "name": "emoji-0x1f619",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 27,
+    "emoji": "😚",
+    "name": "emoji-0x1f61a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 28,
+    "emoji": "😛",
+    "name": "emoji-0x1f61b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 29,
+    "emoji": "😜",
+    "name": "emoji-0x1f61c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 30,
+    "emoji": "😝",
+    "name": "emoji-0x1f61d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 31,
+    "emoji": "😞",
+    "name": "emoji-0x1f61e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 32,
+    "emoji": "😟",
+    "name": "emoji-0x1f61f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 33,
+    "emoji": "😠",
+    "name": "emoji-0x1f620",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 34,
+    "emoji": "😡",
+    "name": "emoji-0x1f621",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 35,
+    "emoji": "😢",
+    "name": "emoji-0x1f622",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 36,
+    "emoji": "😣",
+    "name": "emoji-0x1f623",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 37,
+    "emoji": "😤",
+    "name": "emoji-0x1f624",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 38,
+    "emoji": "😥",
+    "name": "emoji-0x1f625",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 39,
+    "emoji": "😦",
+    "name": "emoji-0x1f626",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 40,
+    "emoji": "😧",
+    "name": "emoji-0x1f627",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 41,
+    "emoji": "😨",
+    "name": "emoji-0x1f628",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 42,
+    "emoji": "😩",
+    "name": "emoji-0x1f629",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 43,
+    "emoji": "😪",
+    "name": "emoji-0x1f62a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 44,
+    "emoji": "😫",
+    "name": "emoji-0x1f62b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 45,
+    "emoji": "😬",
+    "name": "emoji-0x1f62c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 46,
+    "emoji": "😭",
+    "name": "emoji-0x1f62d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 47,
+    "emoji": "😮",
+    "name": "emoji-0x1f62e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 48,
+    "emoji": "😯",
+    "name": "emoji-0x1f62f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 49,
+    "emoji": "😰",
+    "name": "emoji-0x1f630",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 50,
+    "emoji": "😱",
+    "name": "emoji-0x1f631",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 51,
+    "emoji": "😲",
+    "name": "emoji-0x1f632",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 52,
+    "emoji": "😳",
+    "name": "emoji-0x1f633",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 53,
+    "emoji": "😴",
+    "name": "emoji-0x1f634",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 54,
+    "emoji": "😵",
+    "name": "emoji-0x1f635",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 55,
+    "emoji": "😶",
+    "name": "emoji-0x1f636",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 56,
+    "emoji": "😷",
+    "name": "emoji-0x1f637",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 57,
+    "emoji": "😸",
+    "name": "emoji-0x1f638",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 58,
+    "emoji": "😹",
+    "name": "emoji-0x1f639",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 59,
+    "emoji": "😺",
+    "name": "emoji-0x1f63a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 60,
+    "emoji": "😻",
+    "name": "emoji-0x1f63b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 61,
+    "emoji": "😼",
+    "name": "emoji-0x1f63c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 62,
+    "emoji": "😽",
+    "name": "emoji-0x1f63d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 63,
+    "emoji": "😾",
+    "name": "emoji-0x1f63e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 64,
+    "emoji": "😿",
+    "name": "emoji-0x1f63f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 65,
+    "emoji": "🙀",
+    "name": "emoji-0x1f640",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 66,
+    "emoji": "🙁",
+    "name": "emoji-0x1f641",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 67,
+    "emoji": "🙂",
+    "name": "emoji-0x1f642",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 68,
+    "emoji": "🙃",
+    "name": "emoji-0x1f643",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 69,
+    "emoji": "🙄",
+    "name": "emoji-0x1f644",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 70,
+    "emoji": "🙅",
+    "name": "emoji-0x1f645",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 71,
+    "emoji": "🙆",
+    "name": "emoji-0x1f646",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 72,
+    "emoji": "🙇",
+    "name": "emoji-0x1f647",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 73,
+    "emoji": "🙈",
+    "name": "emoji-0x1f648",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 74,
+    "emoji": "🙉",
+    "name": "emoji-0x1f649",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 75,
+    "emoji": "🙊",
+    "name": "emoji-0x1f64a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 76,
+    "emoji": "🙋",
+    "name": "emoji-0x1f64b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 77,
+    "emoji": "🙌",
+    "name": "emoji-0x1f64c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 78,
+    "emoji": "🙍",
+    "name": "emoji-0x1f64d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 79,
+    "emoji": "🙎",
+    "name": "emoji-0x1f64e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 80,
+    "emoji": "🙏",
+    "name": "emoji-0x1f64f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 81,
+    "emoji": "🙐",
+    "name": "emoji-0x1f650",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 82,
+    "emoji": "🙑",
+    "name": "emoji-0x1f651",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 83,
+    "emoji": "🙒",
+    "name": "emoji-0x1f652",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 84,
+    "emoji": "🙓",
+    "name": "emoji-0x1f653",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 85,
+    "emoji": "🙔",
+    "name": "emoji-0x1f654",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 86,
+    "emoji": "🙕",
+    "name": "emoji-0x1f655",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 87,
+    "emoji": "🙖",
+    "name": "emoji-0x1f656",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 88,
+    "emoji": "🙗",
+    "name": "emoji-0x1f657",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 89,
+    "emoji": "🙘",
+    "name": "emoji-0x1f658",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 90,
+    "emoji": "🙙",
+    "name": "emoji-0x1f659",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 91,
+    "emoji": "🙚",
+    "name": "emoji-0x1f65a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 92,
+    "emoji": "🙛",
+    "name": "emoji-0x1f65b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 93,
+    "emoji": "🙜",
+    "name": "emoji-0x1f65c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 94,
+    "emoji": "🙝",
+    "name": "emoji-0x1f65d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 95,
+    "emoji": "🙞",
+    "name": "emoji-0x1f65e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 96,
+    "emoji": "🙟",
+    "name": "emoji-0x1f65f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 97,
+    "emoji": "🙠",
+    "name": "emoji-0x1f660",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 98,
+    "emoji": "🙡",
+    "name": "emoji-0x1f661",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 99,
+    "emoji": "🙢",
+    "name": "emoji-0x1f662",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 100,
+    "emoji": "🙣",
+    "name": "emoji-0x1f663",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 101,
+    "emoji": "🙤",
+    "name": "emoji-0x1f664",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 102,
+    "emoji": "🙥",
+    "name": "emoji-0x1f665",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 103,
+    "emoji": "🙦",
+    "name": "emoji-0x1f666",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 104,
+    "emoji": "🙧",
+    "name": "emoji-0x1f667",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 105,
+    "emoji": "🙨",
+    "name": "emoji-0x1f668",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 106,
+    "emoji": "🙩",
+    "name": "emoji-0x1f669",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 107,
+    "emoji": "🙪",
+    "name": "emoji-0x1f66a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 108,
+    "emoji": "🙫",
+    "name": "emoji-0x1f66b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 109,
+    "emoji": "🙬",
+    "name": "emoji-0x1f66c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 110,
+    "emoji": "🙭",
+    "name": "emoji-0x1f66d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 111,
+    "emoji": "🙮",
+    "name": "emoji-0x1f66e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 112,
+    "emoji": "🙯",
+    "name": "emoji-0x1f66f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 113,
+    "emoji": "🙰",
+    "name": "emoji-0x1f670",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 114,
+    "emoji": "🙱",
+    "name": "emoji-0x1f671",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 115,
+    "emoji": "🙲",
+    "name": "emoji-0x1f672",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 116,
+    "emoji": "🙳",
+    "name": "emoji-0x1f673",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 117,
+    "emoji": "🙴",
+    "name": "emoji-0x1f674",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 118,
+    "emoji": "🙵",
+    "name": "emoji-0x1f675",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 119,
+    "emoji": "🙶",
+    "name": "emoji-0x1f676",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 120,
+    "emoji": "🙷",
+    "name": "emoji-0x1f677",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 121,
+    "emoji": "🙸",
+    "name": "emoji-0x1f678",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 122,
+    "emoji": "🙹",
+    "name": "emoji-0x1f679",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 123,
+    "emoji": "🙺",
+    "name": "emoji-0x1f67a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 124,
+    "emoji": "🙻",
+    "name": "emoji-0x1f67b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 125,
+    "emoji": "🙼",
+    "name": "emoji-0x1f67c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 126,
+    "emoji": "🙽",
+    "name": "emoji-0x1f67d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 127,
+    "emoji": "🙾",
+    "name": "emoji-0x1f67e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 128,
+    "emoji": "🙿",
+    "name": "emoji-0x1f67f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 129,
+    "emoji": "🚀",
+    "name": "emoji-0x1f680",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 130,
+    "emoji": "🚁",
+    "name": "emoji-0x1f681",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 131,
+    "emoji": "🚂",
+    "name": "emoji-0x1f682",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 132,
+    "emoji": "🚃",
+    "name": "emoji-0x1f683",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 133,
+    "emoji": "🚄",
+    "name": "emoji-0x1f684",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 134,
+    "emoji": "🚅",
+    "name": "emoji-0x1f685",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 135,
+    "emoji": "🚆",
+    "name": "emoji-0x1f686",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 136,
+    "emoji": "🚇",
+    "name": "emoji-0x1f687",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 137,
+    "emoji": "🚈",
+    "name": "emoji-0x1f688",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 138,
+    "emoji": "🚉",
+    "name": "emoji-0x1f689",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 139,
+    "emoji": "🚊",
+    "name": "emoji-0x1f68a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 140,
+    "emoji": "🚋",
+    "name": "emoji-0x1f68b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 141,
+    "emoji": "🚌",
+    "name": "emoji-0x1f68c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 142,
+    "emoji": "🚍",
+    "name": "emoji-0x1f68d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 143,
+    "emoji": "🚎",
+    "name": "emoji-0x1f68e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 144,
+    "emoji": "🚏",
+    "name": "emoji-0x1f68f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 145,
+    "emoji": "🚐",
+    "name": "emoji-0x1f690",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 146,
+    "emoji": "🚑",
+    "name": "emoji-0x1f691",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 147,
+    "emoji": "🚒",
+    "name": "emoji-0x1f692",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 148,
+    "emoji": "🚓",
+    "name": "emoji-0x1f693",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 149,
+    "emoji": "🚔",
+    "name": "emoji-0x1f694",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 150,
+    "emoji": "🚕",
+    "name": "emoji-0x1f695",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 151,
+    "emoji": "🚖",
+    "name": "emoji-0x1f696",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 152,
+    "emoji": "🚗",
+    "name": "emoji-0x1f697",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 153,
+    "emoji": "🚘",
+    "name": "emoji-0x1f698",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 154,
+    "emoji": "🚙",
+    "name": "emoji-0x1f699",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 155,
+    "emoji": "🚚",
+    "name": "emoji-0x1f69a",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 156,
+    "emoji": "🚛",
+    "name": "emoji-0x1f69b",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 157,
+    "emoji": "🚜",
+    "name": "emoji-0x1f69c",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 158,
+    "emoji": "🚝",
+    "name": "emoji-0x1f69d",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 159,
+    "emoji": "🚞",
+    "name": "emoji-0x1f69e",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 160,
+    "emoji": "🚟",
+    "name": "emoji-0x1f69f",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 161,
+    "emoji": "🚠",
+    "name": "emoji-0x1f6a0",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 162,
+    "emoji": "🚡",
+    "name": "emoji-0x1f6a1",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 163,
+    "emoji": "🚢",
+    "name": "emoji-0x1f6a2",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 164,
+    "emoji": "🚣",
+    "name": "emoji-0x1f6a3",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 165,
+    "emoji": "🚤",
+    "name": "emoji-0x1f6a4",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 166,
+    "emoji": "🚥",
+    "name": "emoji-0x1f6a5",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 167,
+    "emoji": "🚦",
+    "name": "emoji-0x1f6a6",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 168,
+    "emoji": "🚧",
+    "name": "emoji-0x1f6a7",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 169,
+    "emoji": "🚨",
+    "name": "emoji-0x1f6a8",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 170,
+    "emoji": "🚩",
+    "name": "emoji-0x1f6a9",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 171,
+    "emoji": "🚪",
+    "name": "emoji-0x1f6aa",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 172,
+    "emoji": "🚫",
+    "name": "emoji-0x1f6ab",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 173,
+    "emoji": "🚬",
+    "name": "emoji-0x1f6ac",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 174,
+    "emoji": "🚭",
+    "name": "emoji-0x1f6ad",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 175,
+    "emoji": "🚮",
+    "name": "emoji-0x1f6ae",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 176,
+    "emoji": "🚯",
+    "name": "emoji-0x1f6af",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 177,
+    "emoji": "🚰",
+    "name": "emoji-0x1f6b0",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 178,
+    "emoji": "🚱",
+    "name": "emoji-0x1f6b1",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 179,
+    "emoji": "🚲",
+    "name": "emoji-0x1f6b2",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 180,
+    "emoji": "🚳",
+    "name": "emoji-0x1f6b3",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 181,
+    "emoji": "🚴",
+    "name": "emoji-0x1f6b4",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 182,
+    "emoji": "🚵",
+    "name": "emoji-0x1f6b5",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 183,
+    "emoji": "🚶",
+    "name": "emoji-0x1f6b6",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 184,
+    "emoji": "🚷",
+    "name": "emoji-0x1f6b7",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 185,
+    "emoji": "🚸",
+    "name": "emoji-0x1f6b8",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 186,
+    "emoji": "🚹",
+    "name": "emoji-0x1f6b9",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 187,
+    "emoji": "🚺",
+    "name": "emoji-0x1f6ba",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 188,
+    "emoji": "🚻",
+    "name": "emoji-0x1f6bb",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 189,
+    "emoji": "🚼",
+    "name": "emoji-0x1f6bc",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 190,
+    "emoji": "🚽",
+    "name": "emoji-0x1f6bd",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 191,
+    "emoji": "🚾",
+    "name": "emoji-0x1f6be",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 192,
+    "emoji": "🚿",
+    "name": "emoji-0x1f6bf",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 193,
+    "emoji": "🛀",
+    "name": "emoji-0x1f6c0",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 194,
+    "emoji": "🛁",
+    "name": "emoji-0x1f6c1",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 195,
+    "emoji": "🛂",
+    "name": "emoji-0x1f6c2",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 196,
+    "emoji": "🛃",
+    "name": "emoji-0x1f6c3",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 197,
+    "emoji": "🛄",
+    "name": "emoji-0x1f6c4",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 198,
+    "emoji": "🛅",
+    "name": "emoji-0x1f6c5",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 199,
+    "emoji": "🛆",
+    "name": "emoji-0x1f6c6",
+    "category": "general",
+    "keywords": []
+  },
+  {
+    "id": 200,
+    "emoji": "🛇",
+    "name": "emoji-0x1f6c7",
+    "category": "general",
+    "keywords": []
+  }
+]
