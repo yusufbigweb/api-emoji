@@ -61,8 +61,6 @@ app.get("/", (req, res) => {
     </div>
     <!-- Tailwind CSS CDN -->
 
-
-    <script src="./script.js"></script>
 </body>
 </html>
 
