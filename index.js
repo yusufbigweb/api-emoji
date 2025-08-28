@@ -63,7 +63,6 @@ app.get("/", (req, res) => {
 
 </body>
 </html>
-    <script src="./index.js"></script>
 
   `
 
