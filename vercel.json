@@ -4,6 +4,6 @@
     { "src": "index.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "api/emoji", "dest": "/api" }
+    { "src": "emoji", "dest": "/api" }
   ]
 }
